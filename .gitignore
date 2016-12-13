@@ -1,0 +1,11 @@
+node_modules
+build
+.idea
+config/config.js
+*.rdb
+test.js
+cache/*
+.DS_Store
+*.log
+dist/
+assets/public/*.hot-update.*
