@@ -70,9 +70,12 @@
     "webpack-dev-server": "^1.15.0"
   },
   "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "caniuse-db": "^1.0.30000597",
     "preact": "^6.0.0",
     "preact-compat": "^3.0.0",
     "preact-router": "^2.0.0",
-    "proptypes": "^0.14.3"
+    "proptypes": "^0.14.3",
+    "webpack-core": "^0.6.9"
   }
 }
